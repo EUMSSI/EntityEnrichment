@@ -1,0 +1,1 @@
+classpath*:de/l3s/eumssi/uima/ts/*.xml
