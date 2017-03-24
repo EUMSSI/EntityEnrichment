@@ -8,6 +8,8 @@ documents. While traditional techniques treat documents as collections of keywor
 understanding documents in terms of entities. We revisit  the task of entity salience: assigning a relevance score to each entity 
 in a document.
 
+This is implemented as a UIMA component.
+
 The metadata are listed below:
 
 - authority (PageRank) of co-occurance graphs
