@@ -1,4 +1,4 @@
-The semantic enrichment presents in this Deliverable aims at extending the knowledge about the entities that lie in the context. 
+The semantic enrichment  aims at extending the knowledge about the entities that lie in the context. 
 Document enriching is today a fundamental technique to improve the quality of several text analysis tasks, including Web search. 
 In this work, we present a mechanism that functions as a contextualizing tool that helps user understand more about the entities 
 through different dimensions, i.e., cross-languages, global authority, distinctiveness and public attractiveness.
